@@ -1,16 +1,16 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: sushant7272.github.io/sushantcv
+favicon: /-/sushant7272.github.io/sushantcv/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
--- fastn.auto-import: <user_name>.github.io/<repo_name>/components/profile
--- fastn.auto-import: <user_name>.github.io/<repo_name>/components/social
+-- fastn.auto-import: sushant7272.github.io/sushantcv/FASTN/ds
+-- fastn.auto-import: sushant7272.github.io/sushantcv/assets
+-- fastn.auto-import: sushant7272.github.io/sushantcv/components/profile
+-- fastn.auto-import: sushant7272.github.io/sushantcv/components/social
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:
